@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abdulsamad/OneDrive/Desktop/tracking/mlruns/370848564210807348/966222aab7dd4ae1a03bb91a7c602f4b/artifacts
+end_time: 1716788562250
+entry_point_name: ''
+experiment_id: '370848564210807348'
+lifecycle_stage: active
+run_id: 966222aab7dd4ae1a03bb91a7c602f4b
+run_name: dapper-shrew-459
+run_uuid: 966222aab7dd4ae1a03bb91a7c602f4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716788556130
+status: 3
+tags: []
+user_id: abdulsamad
